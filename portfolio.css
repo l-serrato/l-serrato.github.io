@@ -1,11 +1,13 @@
 h1{
     text-decoration: underline; color:rgb(114, 155, 121); font-family: 'Times New Roman', Times, serif; font-size: 5em;text-align: center;
   }
-  div>h2{border: 10px solid blue;margin-left: 400px;top: 50px;;}
+  div>h2{background-position-y: right ;border: 10px solid blue;margin-left: 350px;top: 10px;}
   .foto{
     border-radius: 50%;right: 100px; margin: 25px solid red;
   }
-  img{padding: 15px solid red;}
+  div>img{width: 200px;
+    height: 200px;
+    border: 8px solid blue;}
   h2{
     text-decoration: underline; color:rgb(114, 155, 121); font-family: 'Times New Roman', Times, serif; font-size: 2em; font-family: Arial, Helvetica, sans-serif;
   }
