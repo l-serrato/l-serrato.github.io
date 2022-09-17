@@ -1,0 +1,39 @@
+h1{
+    text-decoration: underline; color:rgb(114, 155, 121); font-family: 'Times New Roman', Times, serif; font-size: 5em;text-align: center;
+  }
+  div>h2{border: 5px solid blue;margin-left: 25px;width:700px;}
+  .foto{
+    border-radius: 50%;right: 100px; margin: 25px solid red;
+  }
+  div>img{width: 250px;
+    height: 250px;
+    border: 8px solid blueviolet;position: absolute;}
+  h2{
+    text-decoration: underline; color:rgb(114, 155, 121); font-family: 'Times New Roman', Times, serif; font-size: 2em; font-family: Arial, Helvetica, sans-serif;
+  }
+  h3{
+    text-decoration: underline; color:rgb(114, 155, 121); font-family: 'Times New Roman', Times, serif; font-size: 2em;font-family: Arial, Helvetica, sans-serif
+  }
+  ul{
+    font-size: 2em;
+  }
+  li{
+    color:rgb(247, 247, 255);
+  }
+  li:hover{color:blueviolet;}
+  p{
+    color: rgb(247, 247, 255); font-size: 2em;
+  }
+  p:nth-child(even){
+    background-color: teal;
+  }
+  .button{
+    background-color: rgb(192, 50, 33);color: #fff;border-radius: 4px;padding: 15px 30px; text-decoration: none;font-size: 3em;
+  }
+  a{
+    text-decoration: none; color: rgb(247, 247, 255);
+  }
+  a:hover{color: blueviolet;}
+  body{
+    background-color: rgb(11, 3, 45);
+  }
